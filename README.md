@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=87cefa&text=This%20is%20Hyeonsik's%20Github&animation=fadeIn"/>
 
 <h3 align="center">⚙Tech Stack </h3>
+<hr />
 
 <h4>Languages</h4>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />&nbsp;
@@ -12,7 +13,7 @@
 </div>
 
 <h4>Tools</h4>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white" />&nbsp;
