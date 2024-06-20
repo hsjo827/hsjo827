@@ -6,7 +6,7 @@
     <p>I am majoring in AI Big Data & Management and Data Science</span>.</p>
 </div>
   
-<h2>⚙Tech Stack </h2>
+<h3>⚙Tech Stack </h3>
 
 <h4>Languages</h4>
 <div>
