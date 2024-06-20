@@ -3,8 +3,7 @@
 <h1>👋 Hi,there!</h1>
 <div>
   <p>Hello, I'm Hyeon Sik Jo, dreaming of becoming an <span class="highlight"> Data Scientist</span>.</p>
-  <p>I am currently studying at Kookmin University.</p>
-  I am majoring in <span class="highlight"> AI Big Data & Management and Data Science</span>.<br>
+  <p>I am majoring in <span class="highlight"> AI Big Data & Management and Data Science</span>.</p>
 </div>
   
   
