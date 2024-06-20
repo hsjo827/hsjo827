@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=87cefa&text=This%20is%20Hyeonsik's%20Github&animation=fadeIn"/>
 
-<h3 align="center">⚙Tech Stack </h3>
-<hr />
+<h3>⚙Tech Stack </h3>
+<hr style="border: 1px solid #ccc;" />
 
 <h4>Languages</h4>
 <div>
