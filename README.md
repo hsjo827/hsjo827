@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=87cefa&text=This%20is%20Hyeonsik's%20Github&animation=fadeIn"/>
 
-<h1>👋 Hi,there!</h1>
+<h2>👋 Hi,there!</h2>
 <div>
     <p>Hello, I'm Hyeon Sik Jo, dreaming of becoming an Data Scientist.</p>
     <p>I am majoring in AI Big Data & Management and Data Science</span>.</p>
 </div>
   
-<h3>⚙Tech Stack </h3>
+<h2>⚙Tech Stack </h2>
 
-<h4>Languages</h4>
+<h3>Languages</h3>
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" />&nbsp;
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white" />&nbsp;
 </div>
   
-<h4>Development Tools</h4>
+<h3>Development Tools</h3>
 <div>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />&nbsp;
