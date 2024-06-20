@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=87cefa&text=This%20is%20Hyeonsik's%20Github&animation=fadeIn"/>
 
 <h3>⚙Tech Stack </h3>
-<hr style="border: 1px solid #ccc;" />
+<hr style="border: none; border-top: 1px solid #ccc;" />
 
 <h4>Languages</h4>
 <div>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white" />&nbsp;
 </div>
 
-<h4>Tools</h4>
+<h4>Development Tools</h4>
 <div>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />&nbsp;
