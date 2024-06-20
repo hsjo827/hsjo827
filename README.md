@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
+
 
 
 
