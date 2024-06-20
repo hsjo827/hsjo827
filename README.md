@@ -1,10 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=87cefa&text=This%20is%20Hyeonsik's%20Github&animation=fadeIn"/>
 
 <h1>👋 Hi,there!</h1>
-<div class = "intro">
+<div>
+  Hello, I'm Hyeon Sik Jo, dreaming of becoming an <span class="highlight"> Data Scientist</span>.<br>
+  I am majoring in <span class="highlight"> AI Big Data & Management and Data Science</span>.<br>
+</div>
+  
+  
 
 <h3>⚙Tech Stack </h3>
-
+agemn
 <h4>Languages</h4>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />&nbsp;
