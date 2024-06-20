@@ -5,7 +5,8 @@
     <p>Hello, I'm Hyeon Sik Jo, dreaming of becoming an Data Scientist.</p>
     <p>I am majoring in AI Big Data & Management and Data Science</span>.</p>
 </div>
-  
+
+
 <h2>⚙Tech Stack </h2>
 
 <h3>Languages</h3>
