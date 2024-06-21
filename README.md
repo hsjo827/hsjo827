@@ -11,7 +11,8 @@
 
 <h2>📞 Contact</h2>
 <div>
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />&nbsp;
+    <a href="https://hyeon827.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>&nbsp;
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" />&nbsp;
 </div>
