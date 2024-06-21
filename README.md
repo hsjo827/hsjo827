@@ -1,14 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=87cefa&text=This%20is%20Hyeonsik's%20Github&animation=fadeIn)
 
-<h2>👋 Hi,there!</h2>
-<div>
-    <p>Hello, I'm Hyeon Sik Jo, dreaming of becoming an Data Scientist.</p>
-    <p>I am currently studying at Kookmin University.</p>
-    <ul>
-        <li>Major: AI Bigdata & Management</li>
-        <li>Double Major: Data Science</li>
-    </ul>
-</div>
+## 👋 Hi,there
+Hello, I'm Hyeon Sik Jo, dreaming of becoming a **Data Scientist**.
+I am currently studying at **Kookmin University**.
+- Major: AI Bigdata & Management
+- Double Major: Data Science
 
 <h2>📞 Contact</h2>
 <div>
