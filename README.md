@@ -8,6 +8,8 @@ I am currently studying at **Kookmin University**.
 - **Major: AI Bigdata & Management**
 - **Double Major: Data Science**
 
+</br>
+
 ## 📞 Contact
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://hyeon827.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hyeon_827/)
