@@ -9,14 +9,9 @@ I am currently studying at **Kookmin University**.
 - **Double Major: Data Science**
 
 ## 📞 Contact
-<div>
-    <a href="https://hyeon827.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>&nbsp;
-    <a href="https://www.instagram.com/_hyeon_827/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>&nbsp;
-    <a href="mailto:hsjo@kookmin.ac.kr">
-    <img src="https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>&nbsp;
-</div>
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://hyeon827.tistory.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hyeon_827/)
+[![Mail](https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white)](hsjo@kookmin.ac.kr)
 
 <h2>⚙Tech Stack </h2>
 
