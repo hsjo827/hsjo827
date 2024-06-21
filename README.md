@@ -4,20 +4,21 @@
 <div>
     <p>Hello, I'm Hyeon Sik Jo, dreaming of becoming an Data Scientist.</p>
     <p>I am currently studying at Kookmin University.</p>
-    <ul
+    <ul>
         <li>Major: AI Bigdata & Management</li>
         <li>Double Major: Data Science</li>
+    </ul>
 </div>
 
 <h2>📞 Contact</h2>
 <div>
     <a href="https://hyeon827.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" /></a>&nbsp;
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" />&nbsp;
+    <a href="https://www.instagram.com/_hyeon_827/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>&nbsp;
+    <a href="mailto:hsjo@kookmin.ac.kr">
+    <img src="https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white" /></a>&nbsp;
 </div>
-
-
 
 <h2>⚙Tech Stack </h2>
 
