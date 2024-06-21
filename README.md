@@ -2,7 +2,9 @@
 
 ## 👋 Hi,there
 Hello, I'm Hyeon Sik Jo, dreaming of becoming a **Data Scientist**.
+
 I am currently studying at **Kookmin University**.
+
 - Major: AI Bigdata & Management
 - Double Major: Data Science
 
