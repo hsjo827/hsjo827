@@ -9,7 +9,7 @@
         <li>Double Major: Data Science</li>
 </div>
 
-<h2>Contact</h2>
+<h2>📞 Contact</h2>
 <div>
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />&nbsp;
