@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=87cefa&text=This%20is%20HyeonSik's%20Github&section=header&fontSize=50&fontAlign=50&fontAlignY=39&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=009999&text=Welcome%20to%20HyeonSik's%20Github&section=header&fontSize=50&fontAlign=50&fontAlignY=39&descAlign=50&animation=twinkling&fontColor=FFFFFF)
 
 ## 👋 Hi there
-Hello, I'm Hyeon Sik Jo, dreaming of becoming a **Data Scientist**.
+Hello, I'm HyeonSik Jo, dreaming of becoming a **Data Scientist**.
 
 I am currently studying at **Kookmin University**.
 
@@ -73,7 +73,7 @@ Thank you for visiting. Have a nice day 😊
 <br/>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=87cefa&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=009999&section=footer)
 
 
 
