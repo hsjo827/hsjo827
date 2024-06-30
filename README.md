@@ -12,7 +12,7 @@ Thank you for visiting. Have a nice day 😊
 
 <br/>
 
-## 📞 Contact
+## 👇 Contact
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://hyeon827.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hyeon_827/)
 [![Mail](https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white)](hsjo@kookmin.ac.kr)
@@ -65,7 +65,7 @@ Thank you for visiting. Have a nice day 😊
 
 <br/>
 
-## 🪧 Certificate
+## 📜 Certificate
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 | :------: | :------: | :------: | :------: |
 | 2021 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 영구 |
