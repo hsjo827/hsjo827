@@ -47,7 +47,7 @@ Thank you for visiting. Have a nice day 😊
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2023 | EDA & 시각화 | 국가별 OTT 서비스 이용 분석 | 팀장 | [링크](https://github.com/hsjo827/KMU_Project/tree/main/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC%EC%99%80%EC%8B%9C%EA%B0%81%ED%99%94) |
-| 2023 | EDA & 시각화 |  | 팀원 | 링크 |
+| 2023 | EDA & 시각화 | 판매 데이터 분석을 통한 유통사 추론| 팀원 | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2023/Basic%20Session)|
 | 2023 | ML | 아파트 실거래가 예측 (서울, 부산) | 팀원 | [링크](https://github.com/hsjo827/KMU_DNA/tree/main/2023/ML%20Session) |
 | 2023 | ML | Panel Survey 응답 예측 | 팀장 | [링크](https://github.com/hsjo827/KMU_Project/tree/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)|
 | 2024 | CV | 교통약자를 위한 버스 이용 개선 | 팀장 | [링크](https://github.com/hsjo827/KMU_Project/tree/main/%EB%94%A5%EB%9F%AC%EB%8B%9D) |
