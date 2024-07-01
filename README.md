@@ -60,7 +60,7 @@ Thank you for visiting. Have a nice day 😊
 ## 🎖 Competiton
 | 연도 | 주최 | 내용 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2023 | 국민대학교 기후변화대응사업단 | 기후변화대응 비즈니스 아이디어 공모전 | 팀장 | [링크](https://github.com/hsjo827/Competition) (우수상) |
+| 2023 | 국민대학교 기후변화대응사업단 | 기후변화대응 비즈니스 아이디어 공모전 | 팀장 | [링크](https://github.com/hsjo827/Competition/tree/main/%EA%B8%B0%ED%9B%84%EB%B3%80%ED%99%94%EB%8C%80%EC%9D%91%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84) (우수상) |
 | 2024 | 국토교통부 | 국토 교통 데이터활용 경진대회| 팀장 | 진행 중 |
 
 <br/>
