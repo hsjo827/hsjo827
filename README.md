@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=009999&text=Welcome%20to%20HyeonSik's%20Github&section=header&fontSize=50&fontAlign=50&fontAlignY=39&descAlign=50&animation=twinkling&fontColor=FFFFFF)
 
 ## 👋 Hi there
-Hello, I'm HyeonSik Jo, dreaming of becoming a **Data Scientist**.
+Hello, I'm HyeonSik Jo, dreaming of becoming a **Data Scientist, AI Researcher**.
 
 I am currently studying at **Kookmin University**.
 
