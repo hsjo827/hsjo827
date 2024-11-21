@@ -53,7 +53,7 @@ Thank you for visiting. Have a nice day 😊
 | 2024 | CV | 교통약자를 위한 버스 이용 개선 | 팀장 | [링크](https://github.com/hsjo827/Bus-Usage-Improvement) |
 | 2024 | NLP | 뉴스 제목으로 확인하는 한국 언론 지형 파악 | 팀원 | [링크](https://github.com/hsjo827/Korea-Media-Landscape-via-News-Headlines) |
 | 2024 | CV | Facial Caricature Profile GIF | 팀원 | [링크](https://github.com/hsjo827/Facial-caricature-profile-GIF) |
-| 2024 | CV | Sketch2Image and ImageRetrieval | 팀장 | 진행 중 |
+| 2024 | CV | Sketch2Image and ImageRetrieval | 팀장 | [링크](https://github.com/hsjo827/Sketch2Image-and-ImageRetrieval) |
 
 <br/>
 
