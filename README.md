@@ -13,6 +13,7 @@ Thank you for visiting. Have a nice day 😊
 <br/>
 
 ## 👇 Contact
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://surf-seal-035.notion.site/Hyeonsik-Jo-c44b501031ba42f0998ba3fe7185780d)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://hyeon827.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_hyeon_827/)
 [![Mail](https://img.shields.io/badge/hsjo@kookmin.ac.kr-EA4335?style=flat&logo=Gmail&logoColor=white)](hsjo@kookmin.ac.kr)
@@ -54,6 +55,7 @@ Thank you for visiting. Have a nice day 😊
 | 2024 | NLP | 뉴스 제목으로 확인하는 한국 언론 지형 파악 | 팀원 | [링크](https://github.com/hsjo827/Korea-Media-Landscape-via-News-Headlines) |
 | 2024 | CV | Facial Caricature Profile GIF | 팀원 | [링크](https://github.com/hsjo827/Facial-caricature-profile-GIF) |
 | 2024 | CV | Sketch2Image and ImageRetrieval | 팀장 | [링크](https://github.com/hsjo827/Sketch2Image-and-ImageRetrieval) |
+| 2024 | CV | 의료 도메인에서의 SSL : 최적의 데이터 증강 기법 연구 | 팀원 | 진행 중 |
 
 <br/>
 
