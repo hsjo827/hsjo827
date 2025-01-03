@@ -41,6 +41,7 @@ Thank you for visiting. Have a nice day 😊
 | 2024.01~2024.12 | 국민대학교 | AI빅데이터융합경영학과 서버 조교 | 
 | 2024.03~2024.06 | 국민대학교 | 인공지능학회 X:AI Base Session | 학회원 |
 | 2024.07~2024.08 | 국민대학교 | 인공지능학회 X:AI ADV Session | 학회원 |
+| 2025.01~ | 국민대학교 | 인공지능학회 X:AI | 학회장 |
 
 <br/>
 
@@ -55,7 +56,7 @@ Thank you for visiting. Have a nice day 😊
 | 2024 | NLP | 뉴스 제목으로 확인하는 한국 언론 지형 파악 | 팀원 | [링크](https://github.com/hsjo827/Korea-Media-Landscape-via-News-Headlines) |
 | 2024 | CV | Facial Caricature Profile GIF | 팀원 | [링크](https://github.com/hsjo827/Facial-caricature-profile-GIF) |
 | 2024 | CV | Sketch2Image and ImageRetrieval | 팀장 | [링크](https://github.com/hsjo827/Sketch2Image-and-ImageRetrieval) |
-| 2024 | CV | 의료 도메인에서의 SSL : 최적의 데이터 증강 기법 연구 | 팀원 | 진행 중 |
+| 2024 | CV | 의료 데이터에서의 SSL : 최적의 데이터 증강 기법 연구 | 팀원 | [링크](https://github.com/hsjo827/Medical-SSL-Augmentation-Research) |
 
 <br/>
 
