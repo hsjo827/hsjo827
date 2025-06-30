@@ -1,4 +1,4 @@
-## Hi there, I'm Hyeonsik Jo 👩‍🚀
+## Hi there, I'm HyeonSik Jo 👩‍🚀
 - 📌 I dream of becoming an AI Researcher
 - 📚 I'm currently studying at Kookmin University
   - Major : AI Bigdata & Managemnet
@@ -56,4 +56,4 @@
 | 취득 연도 | 자격증 | 주관 | 유효기간 |
 | :------: | :------: | :------: | :------: |
 | 2021 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 | 영구 |
-| 2025 | SQL 개발자(SQLD) | 한국데이터산업진흥원 | 영구 |
+| 2025 | SQL 개발자(SQLD) | 한국데이터산업진흥원 | ~2027.06.27 |
