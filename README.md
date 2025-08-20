@@ -28,7 +28,7 @@
 | 2024.01~2024.12 | 국민대학교 | 빅데이터분석학회 D&A | 운영진 |
 | 2024.01~2024.12 | 국민대학교 | AI빅데이터융합경영학과 서버 조교 | 
 | 2024.03~2024.12 | 국민대학교 | 인공지능학회 X:AI | 학회원 |
-| 2025.01~ | 국민대학교 | 인공지능학회 X:AI | 학회장 |
+| 2025.01~2025.12 | 국민대학교 | 인공지능학회 X:AI | 학회장 |
 | 2025.01~ | 국민대학교 | 인공지능학부 Machine Learning & Pattern Recognition Lab | 학부연구생 |
 
 
@@ -44,7 +44,8 @@
 | 2024 | CV | Facial Caricature Profile GIF | 팀원 | [링크](https://github.com/hsjo827/Facial-caricature-profile-GIF) |
 | 2024 | CV | Sketch2Image and ImageRetrieval | 팀장 | [링크](https://github.com/hsjo827/Sketch2Image-and-ImageRetrieval) |
 | 2024 | CV | 의료 데이터에서의 SSL : 최적의 데이터 증강 기법 연구 | 팀원 | [링크](https://github.com/hsjo827/Medical-SSL-Augmentation-Research) |
-
+| 2025 | Speech & LLM | 음성 인식 정확도 향상을 위한 후보정 기술 연구 | 팀원 | [링크]() |
+| 2025 | CV | KMU-Smart-Parking-Monitor | 팀장 | [링크](https://github.com/hsjo827/KMU-Smart-Parking-Monitor) |
 
 ## Competiton 🏆
 | 연도 | 주최 | 내용 | 역할 | 비고 |
