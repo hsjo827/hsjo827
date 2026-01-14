@@ -1,9 +1,9 @@
 ## Hi there, I'm HyeonSik Jo 👩‍🚀
 I dream of becoming an AI Researcher
 
-• Major: **AI Big Data & Management**  <br>
-• Interdisciplinary Major Major: **Data Science** <br>
-• Minor: **Software** <br>
+• Major : **AI Big Data & Management**  <br>
+• Interdisciplinary Major : **Data Science** <br>
+• Minor : **Software** <br>
 • Interested in **Model Compression**, **Knowledge Distillation**
 
 
